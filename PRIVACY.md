@@ -1,6 +1,6 @@
 # Privacy Policy
 
-JSON View runs entirely in your browser.
+Tidy JSON runs entirely in your browser.
 
 - No personal data or browsing history is collected, stored, or transmitted.
 - Parsing and formatting happen locally on your device.
@@ -11,4 +11,4 @@ JSON View runs entirely in your browser.
 
 [Line of Flight B.V.](https://lineofflig.ht)  
 company@lineofflig.ht  
-https://github.com/lineofflight/json-view
+https://github.com/lineofflight/tidy-json
