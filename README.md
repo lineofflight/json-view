@@ -1,6 +1,6 @@
-# JSON View
+# Tidy JSON
 
-A browser extension that formats JSON documents cleanly.
+A browser extension that tidies JSON documents into a clean, collapsible tree.
 
 ## Features
 
